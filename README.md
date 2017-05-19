@@ -1,5 +1,5 @@
 # Athena / Hera
-Athena / Hera beaconing systems target the Microsoft operating system  from Windows XP to Windows 10:
+Athena / Hera beaconing designs target the Microsoft operating system  from Windows XP to Windows 10:
 https://gist.github.com/Atavic/a0776d0b64b04fcf429516c59a0aa54b
 
 _CIA Issues & Concerns_ has hints to defeat this injected DLL that runs as SYSTEM/NETWORK SERVICE
