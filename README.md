@@ -7,5 +7,6 @@ _CIA Issues & Concerns_ has hints to defeat this injected DLL that runs as SYSTE
 ![Athena running as N AUTHORITY/NETWORK SERVICE](https://github.com/Atavic/Athena/blob/master/athena%20(NT%20Authority).png)
 
 [WIKILEAKS] https://wikileaks.org/vault7/document/AthenaDesign/
+[MIRROR] https://github.com/Atavic/Vault7/blob/master/Athena-v1_0-UserGuide.pdf
 
-Other: Windows Intruded by CIA, Published on [Tux Machines](http://www.tuxmachines.org/node/101464).
+_Other:_ Windows Intruded by CIA, Published on [Tux Machines](http://www.tuxmachines.org/node/101464).
